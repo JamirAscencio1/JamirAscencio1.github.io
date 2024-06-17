@@ -1,0 +1,13 @@
+body{
+    border: 2px solid red;
+    padding: 2px;
+    
+}
+.logo{
+text-align: center;
+}
+
+.parrafo{
+    text-align: justify;
+    padding: 10px;
+}
