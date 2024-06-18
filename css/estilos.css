@@ -1,13 +1,41 @@
+html{
+    border: 2px solid yellow;
+}
 body{
+    border: 5px solid blue;
+    padding: 10px;
+}
+footer{
     border: 2px solid red;
-    padding: 2px;
-    
+    padding: 10px;
+}
+h1{
+    border: solid green;
+}
+.border2{
+    border: 2px solid green;
+    padding: 20px;
+    text-align: center;
 }
 .logo{
-text-align: center;
+    border-radius: 50px;
+    border: 2px solid orange;
+    width: 500px;
+    height: 500px;
 }
 
 .parrafo{
     text-align: justify;
     padding: 10px;
+    border: 2px solid red;
+}
+.nombre{
+    border: 1px solid green;
+}
+.wikipedia{
+    border: 2px solid green;
+}
+
+.historyplace{
+    border: 2px solid green;
 }

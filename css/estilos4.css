@@ -1,0 +1,24 @@
+   
+    .contenedor{
+        background-color: green;
+        margin: 5px;
+        padding: 10px;
+        text-align: justify;
+    }
+
+    .caja1{
+        background-color: chocolate;
+        padding: 10px;
+    }
+
+    .caja2{
+        background-color: orange;
+        padding: 10px;
+
+    }
+
+    .caja3{
+        background-color: cyan;
+        padding: 10px;
+
+    }
